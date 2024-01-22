@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:#a164df;
+	width:100vw;
+	height:100vh;
+	display:flex;
+	align-items:center;
+}
+.btn{
+	display:block;
+	justify-content:space-between;
+	le
+}
